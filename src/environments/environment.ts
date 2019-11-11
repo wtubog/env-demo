@@ -3,7 +3,9 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  whereAmI:
+    'Development stage... because the "dev" stage should be the default environment when you are developing locally'
 };
 
 /*
